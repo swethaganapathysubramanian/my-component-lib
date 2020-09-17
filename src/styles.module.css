@@ -7,3 +7,10 @@
   font-size: 2em;
   text-align: center;
 }
+
+.button {
+  margin: 2em;
+  padding: 0.5em;
+  font-size: 2em;
+  cursor: pointer;
+}
