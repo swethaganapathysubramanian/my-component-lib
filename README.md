@@ -1,4 +1,4 @@
-# my-component-lib
+# my-component-lib-react
 
 > Private library for my components
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save my-component-lib
+npm install --save my-component-lib-react
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save my-component-lib
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'my-component-lib'
+import MyComponent from 'my-component-lib-react'
 import 'my-component-lib/dist/index.css'
 
 class Example extends Component {

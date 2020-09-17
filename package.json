@@ -1,6 +1,6 @@
 {
-  "name": "my-component-lib",
-  "version": "1.0.0",
+  "name": "my-component-lib-react",
+  "version": "1.0.1",
   "description": "Private library for my components",
   "author": "swethaganapathysubramanian",
   "license": "MIT",
